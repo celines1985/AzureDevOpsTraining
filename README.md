@@ -1,0 +1,2 @@
+# AzureDevOpsTraining
+Practicing Azure DevOps
